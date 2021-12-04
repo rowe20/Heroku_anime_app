@@ -14,7 +14,7 @@ const animeRoute = require("./routes/animeRoute");
 const episodeRoute = require("./routes/episodeRoute");
 
 
-app.get("/",(req,res)=> res.send("Welcome To Anime World"));
+app.get("/",(req,res)=> res.send("Welcome To Anime World") res.end());
 app.use("/anime",animeRoute);
 app.use("/episode",episodeRoute);
 
