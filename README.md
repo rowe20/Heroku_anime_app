@@ -54,5 +54,5 @@ _DELETE_
 - [CLick Here](https://github.com/rowe20/Heroku_anime_app/tree/main/Postman)!
 
 ## Heroku app link: - [Click Here](https://hello-world-2022.herokuapp.com/)!
--Check postman screenshots for more functionality using heroku..!
+- Check postman screenshots for more functionality using heroku..!
 
