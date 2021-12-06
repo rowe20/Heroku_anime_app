@@ -51,7 +51,8 @@ _DELETE_
 - delete episode
 
 ## Want to see the Postman Screenshots?
-- [CLick Here](https://github.com/rowe20/Product-Management-APIs-MongoDB/tree/main/Product_Managment_API_Mongo_DB/Postman)!
+- [CLick Here](https://github.com/rowe20/Heroku_anime_app/tree/main/Postman)!
 
-## Heroku app links to be uploaded soon here...!
+## Heroku app link: - [Click Here](https://hello-world-2022.herokuapp.com/)!
+-Check postman screenshots for more functionality using heroku..!
 
